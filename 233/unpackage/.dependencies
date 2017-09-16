@@ -1,0 +1,9 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "css/style.css"
+    ],
+    "priority": 0
+  }
+}

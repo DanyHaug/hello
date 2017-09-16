@@ -1,0 +1,81 @@
+@charset "UTF-8";
+/* 我先分割一下，要不有点乱 */
+.text{
+    background: rgba(255, 127, 80, 0.47);
+}
+.tx{
+    font-size: 32px;
+}
+
+.header{
+    height: 250px;
+}
+.left{
+    margin-left:50px;
+    float: left;
+}
+.tel{
+    font-size: 48px;
+    display: inline-block;
+    border:8px firebrick dotted;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.tel>a{
+    color: #44ccff;
+}
+
+.body{
+    margin-top:.5px;
+    background-color: #e3d0ad;
+}
+h1{
+    color: #00aa88;
+    font-size: 56px;
+    padding-left:30px;
+    padding-bottom:20px;
+}
+
+.fortypx{
+    margin-left:40px;
+}
+/*.fortypx>span{*/
+    /*display: inline-block;*/
+    /*height: 2.5px;*/
+    /*width: 100%;*/
+    /*background: brown;*/
+/*}*/
+table{
+    margin-left: 5px;
+    border: 1px skyblue solid;
+}
+
+.wa{
+    width:300px;
+    height: 300px;
+    border:1px tomato solid;
+    background-color: #607d8b;
+
+}
+
+.fortypx>a{
+    display: inline-block;
+    width: 200px;
+    height: 600px;
+    margin-left:5em;
+    /*background: url("../img/dian_1.png") no-repeat;*/
+}
+/*.fortypx>a:hover{background: url("../img/dian_2.png") no-repeat;}*/
+.dibu{
+    text-align: center;
+    display: block;
+}
+
+span>a{
+    color:#666;
+}
+
+.footer{
+    margin-top: .5px;
+    background: burlywood;
+}
